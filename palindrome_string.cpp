@@ -1,9 +1,10 @@
-// check if a string is palindrome
+// To check if a string is palindrome
 #include <bits/stdc++.h>
 using namespace std;
 
 int main(void)
 {
+    //for n test cases
     int t;
     cin >> t;
     cin.ignore();
