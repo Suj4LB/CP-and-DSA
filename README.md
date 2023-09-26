@@ -1,1 +1,2 @@
-# Recording my CP journey.
+Recording my competitive programming and DSA journey.
+
