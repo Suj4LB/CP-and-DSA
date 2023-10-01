@@ -1,3 +1,4 @@
+//Huffman coding to assign bits to a given distribution of variables with their probabilities provided
 #include <bits/stdc++.h>
 using namespace std;
 
